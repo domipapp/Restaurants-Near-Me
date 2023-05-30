@@ -1,0 +1,7 @@
+619355;Laposföld étterem;Jóllak utca 42/a;Amerikai;47.5066037598;19.0315785361;4.99;$$$;Igen
+687165;Nemtúlfinom étterem;Elmegy utca 4;Kínai;47.5079653155;19.0232529594;2.9;$;Nem
+871687;Azértnemrossz csárda;Majdnemjó út 40;Francia;47.4986880838;19.0268578483;3.5;$;Nem
+631545;Egyélitt falatozó;Korrekt kőrút 29;Vegyes;47.5145743429;19.0364708854;3.9;$$;Igen
+165421;Das étterem;Bécsi út 79;Német;47.5436673514;19.0302910758;4.2;$$$;Nem
+871654;Magyar étterem;Gábor Áron utca 33;Magyar;47.5155311999;19.0033402396;4.1;$$;Nem
+315724;Kétszercsíp étterem;Csípős utca 66;Kínai;47.5070670116;19.032179351;3.6;$;Nem
